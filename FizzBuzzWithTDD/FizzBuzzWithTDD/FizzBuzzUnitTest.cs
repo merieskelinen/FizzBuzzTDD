@@ -12,7 +12,7 @@ using NUnit.Framework;
 //  4. Refactor the code
 //  5. Repeat, accumulating unit tests over time
 
-namespace FizzBuzzWithTDD
+namespace FizzBuzzTDD
 {
     [TestFixture]
     public class FizzBuzzUnitTest

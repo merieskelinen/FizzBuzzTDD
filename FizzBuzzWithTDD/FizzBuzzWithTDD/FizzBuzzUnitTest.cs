@@ -1,9 +1,10 @@
 using NUnit.Framework;
 
-//Write a console program that prints the numbers from 1 to 100.
-//  If printed number can be divided by 3, print “Fizz”
-//  If printed number can be divided by 5, print “Buzz”
-//  If printed number can be divided by both 3 and 5, print “FizzBuzz”
+//Write a class that converts a given number to its FizzBuzz equivalent.
+//  If the number can be divided by 3, return â€œFizzâ€
+//  If the number can be divided by 5, return â€œBuzzâ€
+//  If the number can be divided by both 3 and 5, return â€œFizzBuzzâ€
+//  Else return the number as string. E.g. â€œ1â€
 
 //Typical TDD steps
 //  1. Write a single unit test describing an aspect of the program

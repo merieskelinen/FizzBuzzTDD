@@ -2,10 +2,10 @@
 
 Write a class that converts a given number to its FizzBuzz equivalent.  
 
-	If the number can be divided by **3**, return “Fizz”  
-	If the number can be divided by **5**, return “Buzz”  
-	If the number can be divided by both **3** and **5**, return “FizzBuzz”  
-	Else return the number as string. E.g. “1”  
+If the number can be divided by **3**, return “Fizz”  
+If the number can be divided by **5**, return “Buzz”  
+If the number can be divided by both **3** and **5**, return “FizzBuzz”  
+Else return the number as string. E.g. “1”  
 
 ```
 Example:

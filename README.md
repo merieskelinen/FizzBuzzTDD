@@ -1,12 +1,15 @@
-# FizzBuzzTDD
-Base project for FizzBuzz program in C#.
+# Fizz Buzz with TDD
 
-Write a console program that prints the numbers from 1 to 100.
-	If printed number can be divided by 3, print “Fizz”
-	If printed number can be divided by 5, print “Buzz”
-	If printed number can be divided by both 3 and 5, print “FizzBuzz”
+Write a class that converts a given number to its FizzBuzz equivalent.  
 
-Sample output:
+If the number can be divided by **3**, return “Fizz”  
+If the number can be divided by **5**, return “Buzz”  
+If the number can be divided by both **3** and **5**, return “FizzBuzz”  
+Else return the number as string. E.g. “1”  
+
+```
+Example:
+  
   1
   2
   Fizz
@@ -26,5 +29,9 @@ Sample output:
   17
   Fizz
   … etc
+```
 
 Get the whole assignment here: https://codingdojo.org/kata/FizzBuzz/
+
+
+Happy coding!

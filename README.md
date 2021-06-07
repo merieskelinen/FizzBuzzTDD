@@ -1,6 +1,6 @@
 # Fizz Buzz with TDD
 
-Write a class that converts a given number to its FizzBuzz equivalent.
+Write a class that converts a given number to its FizzBuzz equivalent.  
 	If the number can be divided by **3**, return “Fizz”  
 	If the number can be divided by **5**, return “Buzz”  
 	If the number can be divided by both **3** and **5**, return “FizzBuzz”  

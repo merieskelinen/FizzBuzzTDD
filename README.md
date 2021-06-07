@@ -1,13 +1,12 @@
 # Fizz Buzz with TDD
 
-Write a program that prints the numbers from 1 to 100. 
-* For multiples of **three** print _Fizz_ instead of the number 
-* For multiples of **five** print _Buzz_  instead of the number 
-* For numbers which are multiples of **both** three and five print _FizzBuzz_
+Write a class that converts a given number to its FizzBuzz equivalent.
+	If the number can be divided by **3**, return “Fizz”
+	If the number can be divided by **5**, return “Buzz”
+	If the number can be divided by both **3** and **5**, return “FizzBuzz”
+	Else return the number as string. E.g. “1”
 
-Use TDD and whatever language you want.
-
-Example output:
+Example:
 ```  
   1
   2
